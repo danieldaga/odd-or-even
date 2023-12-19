@@ -7,3 +7,5 @@ def oddOrEven(number):
 num=int(input('Enter a number'))
 
 print(oddOrEven(num))
+
+#test coment
